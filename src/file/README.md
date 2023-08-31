@@ -8,9 +8,9 @@
 
 <img src="https://emoji2svg.deno.dev/api/🦊" alt="eyecatch" height="100">
 
-# Category Name
+# file
 
-Please write category description.
+This directory contains sample programs related to files.
 
 <br>
 <br>
@@ -43,7 +43,7 @@ zig run src/main.zig
 
 ## ⛏️   Development
 
-See [CONTRIBUTING.md](../../../CONTRIBUTING.md).
+See [CONTRIBUTING.md](../../CONTRIBUTING.md).
 
 ## 📜 License
 
