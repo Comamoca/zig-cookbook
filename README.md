@@ -6,12 +6,11 @@
 ![Open Issues](https://img.shields.io/github/issues-raw/Comamoca/baserepo?style=flat-square)
 ![Bug Issues](https://img.shields.io/github/issues/Comamoca/baserepo/bug?style=flat-square)
 
-
 <img src="https://emoji2svg.deno.dev/api/🦊" alt="eyecatch" height="100">
 
-# baserepo
+# Zig Cookbook
 
-This is Comamoca's template repository.
+This is a repository of Zig code examples by category.
 
 <br>
 <br>
