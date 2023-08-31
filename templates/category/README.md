@@ -43,7 +43,7 @@ zig run src/main.zig
 
 ## ⛏️   Development
 
-See [CONTRIBUTING.md](../../../CONTRIBUTING.md).
+See [CONTRIBUTING.md](../../CONTRIBUTING.md).
 
 ## 📜 License
 

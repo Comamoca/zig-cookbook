@@ -42,7 +42,7 @@ zig run src/main.zig
 
 ## ⛏️   開発
 
-[CONTRIBUTING.md]()を参照してください。
+[CONTRIBUTING.md](../../CONTRIBUTING.md)を参照してください。
 
 ## 📜 ライセンス
 
